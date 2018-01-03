@@ -40,5 +40,13 @@ int main(){
 		cout<<endl;
 	}
 	cout<<endl;
+	
+		// MENAMPILKAN NILAI W
+	cout << "BOBOT W :"<<endl;
+	for(int i=0;i<5;i++){
+		cout<< w[i] <<" | ";
+	}
+	cout << endl;
+	cout << endl;
 }
 	
